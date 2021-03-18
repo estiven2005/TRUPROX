@@ -36,7 +36,7 @@ body{
 	letter-spacing: 0.8px;
 	word-wrap: break-word;
 	font-weight: 400;
-	background-color: #fff;
+	background-color: rgb(255, 255, 255);
 	color: #6f6f6f;
 }
 svg{
@@ -124,7 +124,7 @@ img.svg{
     position: absolute;
     height: 50%;
     width: 100%;
-    background-color: #000;
+    background-color: rgb(0, 0, 0);
 	
     -webkit-transition: .7s all ease;
     -o-transition: .7s all ease;
@@ -299,7 +299,7 @@ img.svg{
 .beny_tm_first_menu.animate{
 	padding: 25px 0px;
     background-color: #fff;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.2);
 }
 .beny_tm_first_menu.animate .logo .dark{display: block;}
 .beny_tm_first_menu.animate .logo .light{display: none;}
@@ -571,7 +571,7 @@ img.svg{
 }
 .progress_inner span.number{float: right;}
 .progress_inner .background{
-	background:#07081f;
+	background:#0008ff;
 	width:100%;
 	min-width:100%;
 	position:relative;
@@ -806,7 +806,7 @@ img.svg{
 .beny_tm_timeline_portfolio .timeline_inner ul li .inner .short{
 	width: 100%;
 	float: left;
-	border-bottom: 1px solid rgba(0,0,0,.2);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 	margin-bottom: 20px;
 }
 .beny_tm_timeline_portfolio .timeline_inner ul li .inner .short h3{
